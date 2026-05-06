@@ -1,0 +1,162 @@
+[
+  {
+    "fecha": "2023-04-12T09:00:00.000+02:00",
+    "titulo": "Reunión de equipo",
+    "duracion": 60
+  },
+  {
+    "fecha": "2023-04-12T10:30:00.000+02:00",
+    "titulo": "Sesión de brainstorming",
+    "duracion": 90
+  },
+  {
+    "fecha": "2023-04-12T12:00:00.000+02:00",
+    "titulo": "Almuerzo de negocios",
+    "duracion": 120
+  },
+  {
+    "fecha": "2023-04-12T14:00:00.000+02:00",
+    "titulo": "Revisión de diseño",
+    "duracion": 45
+  },
+  {
+    "fecha": "2023-04-12T15:00:00.000+02:00",
+    "titulo": "Llamada con cliente",
+    "duracion": 30
+  },
+  {
+    "fecha": "2023-04-12T16:00:00.000+02:00",
+    "titulo": "Taller de desarrollo",
+    "duracion": 180
+  },
+  {
+    "fecha": "2023-04-13T08:00:00.000+02:00",
+    "titulo": "Entrenamiento matutino",
+    "duracion": 60
+  },
+  {
+    "fecha": "2023-04-13T10:00:00.000+02:00",
+    "titulo": "Presentación de resultados",
+    "duracion": 120
+  },
+  {
+    "fecha": "2023-04-13T13:00:00.000+02:00",
+    "titulo": "Evaluación trimestral",
+    "duracion": 90
+  },
+  {
+    "fecha": "2023-04-13T15:30:00.000+02:00",
+    "titulo": "Mantenimiento de servidores",
+    "duracion": 240
+  },
+  {
+    "fecha": "2023-04-14T09:15:00.000+02:00",
+    "titulo": "Clase de yoga",
+    "duracion": 60
+  },
+  {
+    "fecha": "2023-04-14T11:00:00.000+02:00",
+    "titulo": "Planificación estratégica",
+    "duracion": 150
+  },
+  {
+    "fecha": "2023-04-14T14:00:00.000+02:00",
+    "titulo": "Demo de producto",
+    "duracion": 45
+  },
+  {
+    "fecha": "2023-04-14T16:00:00.000+02:00",
+    "titulo": "Entrevista de trabajo",
+    "duracion": 60
+  },
+  {
+    "fecha": "2023-04-15T10:00:00.000+02:00",
+    "titulo": "Webinar tecnología",
+    "duracion": 120
+  },
+  {
+    "fecha": "2023-04-15T12:30:00.000+02:00",
+    "titulo": "Networking lunch",
+    "duracion": 90
+  },
+  {
+    "fecha": "2023-04-15T17:00:00.000+02:00",
+    "titulo": "After office",
+    "duracion": 180
+  },
+  {
+    "fecha": "2023-04-16T09:00:00.000+02:00",
+    "titulo": "Curso de inglés",
+    "duracion": 120
+  },
+  {
+    "fecha": "2023-04-16T11:30:00.000+02:00",
+    "titulo": "Check-in semanal",
+    "duracion": 30
+  },
+  {
+    "fecha": "2023-04-16T14:00:00.000+02:00",
+    "titulo": "Soporte técnico",
+    "duracion": 60
+  },
+  {
+    "fecha": "2023-04-17T10:00:00.000+02:00",
+    "titulo": "Reunión de ventas",
+    "duracion": 90
+  },
+  {
+    "fecha": "2023-04-17T12:00:00.000+02:00",
+    "titulo": "Auditoría interna",
+    "duracion": 200
+  },
+  {
+    "fecha": "2023-04-17T16:00:00.000+02:00",
+    "titulo": "Tutoría de proyecto",
+    "duracion": 45
+  },
+  {
+    "fecha": "2023-04-18T08:30:00.000+02:00",
+    "titulo": "Desayuno editorial",
+    "duracion": 75
+  },
+  {
+    "fecha": "2023-04-18T11:00:00.000+02:00",
+    "titulo": "Update de marketing",
+    "duracion": 60
+  },
+  {
+    "fecha": "2023-04-18T15:00:00.000+02:00",
+    "titulo": "Configuración de CRM",
+    "duracion": 120
+  },
+  {
+    "fecha": "2023-04-19T09:00:00.000+02:00",
+    "titulo": "Lanzamiento campaña",
+    "duracion": 180
+  },
+  {
+    "fecha": "2023-04-19T13:00:00.000+02:00",
+    "titulo": "Cierre de mes",
+    "duracion": 150
+  },
+  {
+    "fecha": "2023-04-19T17:00:00.000+02:00",
+    "titulo": "Focus group",
+    "duracion": 90
+  },
+  {
+    "fecha": "2023-04-20T10:00:00.000+02:00",
+    "titulo": "Clínica de código",
+    "duracion": 120
+  },
+  {
+    "fecha": "2002-04-28T06:30:00.000+02:00",
+    "titulo": "Cumpleaños",
+    "duracion": 0
+  },
+  {
+    "fecha": "2002-04-28T09:30:00.000+02:00",
+    "titulo": "post",
+    "duracion": 26
+  }
+]
