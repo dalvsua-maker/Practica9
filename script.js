@@ -87,7 +87,7 @@ class Agenda {
 
     crearTarea() {
         console.log("\n--- Nuevo Evento ---");
-        const anio = this.pedirDato("Año", 2023, 2100);
+        const anio = this.pedirDato("Año", 1900, 2100);
         const mes = this.pedirDato("Mes", 1, 12);
         const dia = this.pedirDato("Día", 1, 31);
         const hora = this.pedirDato("Hora", 0, 23);
@@ -117,19 +117,31 @@ class Agenda {
     }
 
     // Punto 4: Borrar [cite: 22]
-    borrarEvento() {
+       borrarEvento() {
         if (this.tareas.length === 0) return console.log("No hay nada que borrar.");
         
         console.log("\n--- Seleccione evento para borrar ---");
+        // Mostramos las tareas actuales
         this.tareas.forEach((t, i) => {
             console.log(`${i + 1}. ${t.titulo} (${t.fecha})`);
         });
+        console.log("0. Cancelar y salir"); // Nueva opción de salida
 
-        const indice = this.pedirDato("Número de evento", 1, this.tareas.length) - 1;
+        // Ajustamos el rango: ahora permite desde 0 hasta el total de tareas
+        const seleccion = this.pedirDato("Número de evento (o 0 para salir)", 0, this.tareas.length);
+
+        // Si elige 0, salimos del método sin hacer nada
+        if (seleccion === 0) {
+            return console.log("Operación cancelada.");
+        }
+
+        // Si no es 0, procedemos a borrar (restando 1 para el índice del array)
+        const indice = seleccion - 1;
         this.tareas.splice(indice, 1);
-        this.guardarCambios(); // [cite: 25]
+        this.guardarCambios();
         console.log("Evento eliminado.");
     }
+
 }
 
 class Menu {
@@ -154,7 +166,7 @@ class Menu {
                 case 1: this.agenda.crearTarea(); break;
                 case 2: this.agenda.verEventosFecha(); break;
                 case 3:
-                    const anio = this.agenda.pedirDato("Año", 2023, 2100);
+                    const anio = this.agenda.pedirDato("Año", 1900, 2100);
                     const mes = this.agenda.pedirDato("Mes", 1, 12);
                     const dia = this.agenda.pedirDato("Día", 1, 31);
                     this.agenda.verEventosFecha(DateTime.fromObject({ year: anio, month: mes, day: dia }));

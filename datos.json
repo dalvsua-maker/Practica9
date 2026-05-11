@@ -158,5 +158,170 @@
     "fecha": "2002-04-28T09:30:00.000+02:00",
     "titulo": "post",
     "duracion": 26
+  },
+  {
+    "fecha": "2025-06-15T10:00:00.000+02:00",
+    "titulo": "Cierre de proyecto antiguo 2025",
+    "duracion": 120
+  },
+  {
+    "fecha": "2025-09-20T17:00:00.000+02:00",
+    "titulo": "Examen certificación nivel 1",
+    "duracion": 180
+  },
+  {
+    "fecha": "2025-12-31T23:00:00.000+01:00",
+    "titulo": "Fiesta fin de año 2025",
+    "duracion": 300
+  },
+  {
+    "fecha": "2026-01-10T09:00:00.000+01:00",
+    "titulo": "Planificación anual 2026",
+    "duracion": 240
+  },
+  {
+    "fecha": "2026-02-14T20:30:00.000+01:00",
+    "titulo": "Cena San Valentín pasada",
+    "duracion": 120
+  },
+  {
+    "fecha": "2026-03-25T11:00:00.000+01:00",
+    "titulo": "Revisión técnica trimestral",
+    "duracion": 90
+  },
+  {
+    "fecha": "2026-04-12T10:00:00.000+02:00",
+    "titulo": "Aniversario empresa",
+    "duracion": 60
+  },
+  {
+    "fecha": "2026-05-10T18:00:00.000+02:00",
+    "titulo": "Gimnasio (Ayer)",
+    "duracion": 60
+  },
+  {
+    "fecha": "2026-05-11T19:00:00.000+02:00",
+    "titulo": "Revisión de calendario (Hoy)",
+    "duracion": 30
+  },
+  {
+    "fecha": "2026-05-12T08:30:00.000+02:00",
+    "titulo": "Desayuno con cliente (Mañana)",
+    "duracion": 60
+  },
+  {
+    "fecha": "2026-05-15T16:00:00.000+02:00",
+    "titulo": "Entrega de informe final",
+    "duracion": 120
+  },
+  {
+    "fecha": "2026-05-20T10:00:00.000+02:00",
+    "titulo": "Taller: IA aplicada",
+    "duracion": 180
+  },
+  {
+    "fecha": "2026-06-05T12:00:00.000+02:00",
+    "titulo": "Renovación alquiler",
+    "duracion": 45
+  },
+  {
+    "fecha": "2026-06-21T21:00:00.000+02:00",
+    "titulo": "Cena solsticio verano",
+    "duracion": 150
+  },
+  {
+    "fecha": "2026-07-01T09:00:00.000+02:00",
+    "titulo": "Inicio vacaciones",
+    "duracion": 1440
+  },
+  {
+    "fecha": "2026-08-15T10:00:00.000+02:00",
+    "titulo": "Mantenimiento servidores",
+    "duracion": 240
+  },
+  {
+    "fecha": "2026-09-10T11:00:00.000+02:00",
+    "titulo": "Lanzamiento campaña otoño",
+    "duracion": 60
+  },
+  {
+    "fecha": "2026-10-05T15:00:00.000+02:00",
+    "titulo": "Cita médica anual",
+    "duracion": 45
+  },
+  {
+    "fecha": "2026-11-20T10:00:00.000+01:00",
+    "titulo": "Black Friday Prep",
+    "duracion": 300
+  },
+  {
+    "fecha": "2026-12-15T14:00:00.000+01:00",
+    "titulo": "Comida equipo Navidad",
+    "duracion": 180
+  },
+  {
+    "fecha": "2027-01-01T11:00:00.000+01:00",
+    "titulo": "Resaca año nuevo 2027",
+    "duracion": 480
+  },
+  {
+    "fecha": "2027-01-15T09:30:00.000+01:00",
+    "titulo": "Planificación Q1 2027",
+    "duracion": 120
+  },
+  {
+    "fecha": "2027-02-02T16:00:00.000+01:00",
+    "titulo": "Revisión de contrato 2027",
+    "duracion": 60
+  },
+  {
+    "fecha": "2027-03-10T10:00:00.000+01:00",
+    "titulo": "Auditoría de sistemas",
+    "duracion": 200
+  },
+  {
+    "fecha": "2027-04-05T09:00:00.000+02:00",
+    "titulo": "Presentación de resultados",
+    "duracion": 90
+  },
+  {
+    "fecha": "2027-05-11T12:00:00.000+02:00",
+    "titulo": "Cumpleaños 2027",
+    "duracion": 120
+  },
+  {
+    "fecha": "2027-06-20T18:00:00.000+02:00",
+    "titulo": "Cierre fase beta",
+    "duracion": 60
+  },
+  {
+    "fecha": "2027-07-14T08:00:00.000+02:00",
+    "titulo": "Viaje negocios",
+    "duracion": 360
+  },
+  {
+    "fecha": "2027-08-30T10:30:00.000+02:00",
+    "titulo": "Reunión estratégica",
+    "duracion": 150
+  },
+  {
+    "fecha": "2027-09-12T15:00:00.000+02:00",
+    "titulo": "Focus group productos",
+    "duracion": 90
+  },
+  {
+    "fecha": "1901-01-01T00:14:00.000+00:00",
+    "titulo": "comienza un nuevo siglo",
+    "duracion": 1000
+  },
+  {
+    "fecha": "1900-01-01T00:00:00.000-00:14",
+    "titulo": "este si es el comienzo",
+    "duracion": 0
+  },
+  {
+    "fecha": "2026-05-11T18:20:00.000+02:00",
+    "titulo": "pr1",
+    "duracion": 10
   }
 ]
